@@ -4,3 +4,4 @@ Example of generating the classic dog vs cat classifier using [Teachable Machine
 
 ## Screenshots
 <img src="firstImage.png" width=350>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="secondImage.png" width=350>
+this is not g]fr sa;e but it has to be
